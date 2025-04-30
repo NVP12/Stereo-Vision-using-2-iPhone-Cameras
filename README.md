@@ -25,4 +25,8 @@ This project implements a **stereo vision system** using two iPhone 15 cameras t
 ---
 
 ## 🛠️ Project Structure
+Stereo-Vision-using-2-iPhone-Cameras/ │ ├── calibration/ # Camera calibration scripts and images ├── stereo_capture/ # Code to sync and align stereo images ├── disparity_map/ # Disparity and depth estimation logic ├── results/ # Sample outputs and visualizations ├── utils/ # Helper functions (e.g., undistort, resize) ├── README.md # You’re reading it! └── requirements.txt # Python dependencies
+
+Copy
+Edit
 
