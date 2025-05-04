@@ -1,5 +1,10 @@
 # Stereo Vision Depth Estimation using Dual iPhone 15 Cameras
 
+<p align="center">
+  <img src="assets/Stereo Demo.gif" alt="Project Preview" width="700"/>
+  <img src="assets/Stereo Results.jpg" alt="Project Result" width="700"/>
+</p>
+
 ![Depth Estimation](https://img.shields.io/badge/Computer%20Vision-Stereo%20Vision-blue)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%26%20Python-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
