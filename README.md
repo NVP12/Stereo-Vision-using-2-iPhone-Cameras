@@ -29,9 +29,7 @@ This project implements a **stereo vision system** using two iPhone 15 cameras t
 
 ## Result 
 
-<p align="center">
-    <img src="assets/Stereo Results.jpg" alt="Project Result" width="700"/>
-</p>
+![Project Result](assets/stereo_results.jpg)
 
 ---
 
