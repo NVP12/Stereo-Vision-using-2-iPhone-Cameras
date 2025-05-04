@@ -29,7 +29,7 @@ This project implements a **stereo vision system** using two iPhone 15 cameras t
 
 ## Result 
 
-![Project Result](assets/stereo_results.jpg)
+![Project Result](assets/Stereo Results.jpg)
 
 ---
 
