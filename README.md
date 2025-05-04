@@ -4,9 +4,6 @@
   <img src="assets/Stereo Demo.gif" alt="Project Preview" width="700"/>
 </p>
 
-<p align="center">
-    <img src="assets/Stereo Results.jpg" alt="Project Result" width="700"/>
-</p>
 
 ![Depth Estimation](https://img.shields.io/badge/Computer%20Vision-Stereo%20Vision-blue)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%26%20Python-lightgrey)
@@ -29,6 +26,12 @@ This project implements a **stereo vision system** using two iPhone 15 cameras t
 - Disparity map generation using block matching algorithms
 - Depth map computation and visualization
 - Optional K-means post-processing for refinement
+
+## Result 
+
+<p align="center">
+    <img src="assets/Stereo Results.jpg" alt="Project Result" width="700"/>
+</p>
 
 ---
 
