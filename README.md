@@ -2,7 +2,10 @@
 
 <p align="center">
   <img src="assets/Stereo Demo.gif" alt="Project Preview" width="700"/>
-  <img src="assets/Stereo Results.jpg" alt="Project Result" width="700"/>
+</p>
+
+<p align="center">
+    <img src="assets/Stereo Results.jpg" alt="Project Result" width="700"/>
 </p>
 
 ![Depth Estimation](https://img.shields.io/badge/Computer%20Vision-Stereo%20Vision-blue)
